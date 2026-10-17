@@ -70,5 +70,5 @@ License
 No license file was present in the repository root at the time of review. This README does not assign a license or establish ownership of individual contributions.
 <div align="center">
 
-A time capsule of curiosity, late-night code, and learning how systems talk.
+A time capsule of curiosity, late-night code, Pizza, breakfast burritos, monsters, and learning how systems talk.
 </div>

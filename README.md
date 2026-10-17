@@ -10,8 +10,6 @@ old server from my teenage years 2015-2017 only god knows what I was up too
 The NULLSEC Archives · 2015–2017
 </div>
 
-https://github.com/user-attachments/assets/bf652f4e-4eb0-4b55-b422-e37e79d47347
-Before the polished projects
 This repository preserves early programming experiments from 2015–2017: TCP sockets, a desktop chat interface, threaded connections, custom message encryption, and a collection of Windows API functions.
 It captures the learning process as it happened—rough drafts, ambitious ideas, unfinished functions, colorful comments, and plenty of things a future version would do differently.
 Treat this as a historical source archive. The files are not a tested application release, and several contain syntax errors, missing dependencies, or security-sensitive behavior.
